@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Let\'s Code Android</string>
+    <string name="pass_text">Enter to pass</string>
+    <string name="b_text">Pass</string>
+    <string name="main_activity_text_view_description">Text Passed from second activity is shown here</string>
+    <string name="textview_desc_second">Text passed from first activity is shown here</string>
+</resources>
